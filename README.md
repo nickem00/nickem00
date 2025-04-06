@@ -1,10 +1,10 @@
 #  Introduction
 
-Hi there! 👋 My name is Nicholas Malm and I'm a first-year student studying Software Development at Kristianstad University. Welcome to my GitHub profile!
+Hi there! 👋 My name is Nicholas Malm and I'm a second-year student studying Software Development at Kristianstad University. Welcome to my GitHub profile!
 
-## 🪂 About Me
+## 📷 About Me
 
-I'm a 24-year-old from Sweden with a background in photography and videography as hobbies. I'm a problem solver and I can't resist the challenge of debugging when something doesn't work on the computer. In my spare time I enjoy skydiving and photography.📷
+I'm a 24-year-old from Sweden with a background in photography and videography as hobbies. I'm a problem solver and I can't resist the challenge of debugging when something doesn't work. In my spare time I enjoy photography and spending time outdoors in various ways.🌳
 
 ## 💻 Skills
 
