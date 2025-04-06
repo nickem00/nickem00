@@ -27,6 +27,7 @@ I'm a 24-year-old from Sweden with a background in photography and videography a
 ### Development Tools
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira Badge](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Methodologies
 ![Scrum Badge](https://img.shields.io/badge/Scrum-grey?style=for-the-badge&logo=scrumalliance)
