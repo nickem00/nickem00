@@ -21,8 +21,16 @@ I'm a 24-year-old from Sweden with a background in photography and videography a
 ### Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+
+### Deployment & Hosting
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ### Development Tools
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -38,7 +46,7 @@ I'm a 24-year-old from Sweden with a background in photography and videography a
 
 ## 📩 Contact Me
 
-You can reach me via email at nickemalm00@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/nicholas-malm-4344132a0).
+You can reach me via email at nickemalm00@gmail.com, connect with me on [LinkedIn](www.linkedin.com/in/nicholas-malm-4344132a0), or visit my website at [nicholasmalm.com](https://nicholasmalm.com).
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration opportunities!
 
